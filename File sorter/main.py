@@ -8,7 +8,7 @@ def main():
 
 
 
-    path = 'C:\\Users\\anicc\\Downloads'
+    path = 'C:\\Your\\File\\Path'
 
     list_ = os.listdir(path) 
 
